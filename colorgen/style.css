@@ -1,0 +1,11 @@
+body {
+  transition: all .5s ease;
+
+}
+
+#hex {
+  font-family: sans-serif; Helvetica;
+  background-color: white;
+  font-size: 3em; 
+}
+
