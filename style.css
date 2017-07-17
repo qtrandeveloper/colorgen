@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   margin: 0;
   transition: all .5s ease;
@@ -12,3 +13,15 @@ body {
   align-items: center;
   justify-content: center;  
 }
+=======
+body {
+  transition: all .5s ease;
+}
+
+#hex {
+  font-family: sans-serif; Helvetica;
+  background-color: white;
+  font-size: 3em; 
+}
+
+>>>>>>> db7c09319cff082efff1c4da6f5b7ee463c584b2
