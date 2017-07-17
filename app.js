@@ -12,7 +12,7 @@ function setBackground(){
   document.body.style.background = bgColor;
 }
 
-//get hexcode and return value to div hex
+//get hexcode and return value to div 
 function returnHex(){
   document.getElementById("hex").innerHTML = getColor();
 }
