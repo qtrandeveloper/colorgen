@@ -1,10 +1,14 @@
 body {
+  margin: 0;
   transition: all .5s ease;
-
+  font-family: Verdana;
 }
 
-#hex {
+#code {
   font-family: sans-serif; Helvetica;
-  background-color: white; 
+  background-color: white;
+  font-size: 3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
 }
-
