@@ -1,13 +1,17 @@
 body {
   margin: 0;
   transition: all .5s ease;
+  display: -webkit-flex;
+  display: flex;
 }
 
-#code {
-  font-family: sans-serif; Helvetica;
-  background-color: white;
-  font-size: 3em;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+#hex, img {
+    font-family: Verdana; serif; sans-serif; 
+    font-size: 3em;
+    display: -webkit-flex;
+    display: flex;
+   -webkit-align-items: center;
+   align-items: center;
+   -webkit-justify-content: center;
+   justify-content: center; 
 }

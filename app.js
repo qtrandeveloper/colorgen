@@ -1,7 +1,7 @@
 //create random hex color code
 function getColor(){
   var hexcode = "";
-  hexcode = '#' + Math.random().toString(16).toUpperCase().slice(2,8);
+  hexcode = "#" + Math.random().toString(16).toUpperCase().slice(2,8);
   return hexcode;
 }
 
