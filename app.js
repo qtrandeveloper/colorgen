@@ -24,3 +24,6 @@ document.body.onkeyup = function(e){
     returnHex();
   }
 }
+
+//add event listener? comment out above code
+document.addEventListener("onkeyup", setBackground);
