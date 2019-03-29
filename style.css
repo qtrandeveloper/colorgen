@@ -9,6 +9,7 @@ body {
   align-items: center;
   -webkit-justify-content: center;
   justify-content: center;
+  min-height:100vh;
 }
 
 .bounce {
